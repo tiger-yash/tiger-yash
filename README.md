@@ -37,10 +37,10 @@ I am currently enrolled in Computer Science and Engineering Programmer at the In
 <p align=center>
   <div align=center>
     <a href="https://github.com/tiger-yash/github-readme-streak-stats" title="Go to Source">
-      <img align="center" style="padding-right: 50px" width=446 src="https://github-readme-streak-stats.herokuapp.com/?user=tiger-yash&theme=react&border=61dafb&hide_border=true" alt="zumrudu-anka" />
+      <img align="center" style="padding-right: 50px" width=416 src="https://github-readme-streak-stats.herokuapp.com/?user=tiger-yash&theme=react&border=61dafb&hide_border=true" alt="zumrudu-anka" />
     </a>&nbsp;  &nbsp;
     <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-      <img align="center" width=446 src="https://github-readme-stats.vercel.app/api?username=tiger-yash&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+      <img align="center" width=416 src="https://github-readme-stats.vercel.app/api?username=tiger-yash&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
     </a>
   </div>
   <br>
