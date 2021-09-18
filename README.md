@@ -23,7 +23,7 @@ I am currently enrolled in Computer Science and Engineering Programmer at the In
 - 🔭 I’m currently working on COPS IIT(BHU) SDG Website
 - 🌱 I’m currently learning NUXT
 - 👯 I’m looking to collaborate on any project
-- 🤔 I’m looking for help with anything
+- 🤔 I’m looking for help with Slick in Nuxt
 - 💬 Ask me about Django!
 
 <br><br><br><br><br><br>
