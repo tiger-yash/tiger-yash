@@ -11,9 +11,7 @@
   <img align="left" alt="Yash's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
 </a>
 
-![](https://visitor-badge.glitch.me/badge?page_id=tiger-yash.tiger-yash)
-
-<br />
+<br><br>
 I am a Full Stack Web Developer whose passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
 
 I am currently enrolled in Computer Science and Engineering Programmer at the Indian Institute of Technology ( BHU ). I explore all fields of Computer Science, be it Web Development, Fun events like Capture the Flag, Machine Learning, and the sport of Competitive Programming.
@@ -25,6 +23,8 @@ I am currently enrolled in Computer Science and Engineering Programmer at the In
 - 👯 I’m looking to collaborate on any project
 - 🤔 I’m looking for help with Slick in Nuxt
 - 💬 Ask me about Django!
+<br><br>
+  <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=tiger-yash.tiger-yash" />
 
 <br><br><br><br><br><br>
 <h2 align="center">Languages and Tools</h2>
