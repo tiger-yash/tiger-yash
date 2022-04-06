@@ -7,9 +7,7 @@
 <a href="https://www.linkedin.com/in/yash-raj-9aa877165/">
   <img align="left" alt="Yash's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-<a href="https://open.spotify.com/user/8xgmv00z2suh8wq91k6ep941c?si=GtTgQ1wKSL64F82fWR0Xtw">
-  <img align="left" alt="Yash's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
-</a>
+
 
 ![Profile View Counter](https://komarev.com/ghpvc/?username=tiger-yash)
 <br><br>
