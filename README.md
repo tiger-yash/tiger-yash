@@ -17,11 +17,11 @@ I am currently enrolled in Computer Science and Engineering Programmer at the In
 <br><br>
 <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/74406801/133872281-a8ba6466-280a-44e4-87ef-61cf42009d50.gif" width="450" height="280" />
 
-- 🔭 I’m currently working on COPS IIT(BHU) SDG Website
-- 🌱 I’m currently learning NUXT
+- 🔭 I’m currently working on an Android project based on ML models.
+- 🌱 I’m currently learning Kotlin
 - 👯 I’m looking to collaborate on any project
 - 🤔 I’m looking for help with Slick in Nuxt
-- 💬 Ask me about Django!
+- 💬 Ask me about DRF!
 <br><br>
 <!--   <img align="left" src="https://visitor-badge.glitch.me/badge?page_id=tiger-yash.tiger-yash" alt="visitor badge"/> -->
          
