@@ -1,15 +1,8 @@
 # 𝐇i👋 𝐭𝐡𝐞𝐫𝐞! I am [Yash Raj](https://tiger-yash.github.io/)
 [![Gmail Badge](https://img.shields.io/badge/-tigeryashraj@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tigeryashraj@gmail.com)](mailto:tigeryashraj@gmail.com)
 
-<a href="https://twitter.com/gr8_tiger_yash">
-  <img align="left" alt="Yash Raj | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/yash-raj-9aa877165/">
-  <img align="left" alt="Yash's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
 
-
-<br><br>
+<br>
 I am a Full Stack Web Developer whose passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
 
 I am currently enrolled in Computer Science and Engineering Programmer at the Indian Institute of Technology ( BHU ). I explore all fields of Computer Science, be it Web Development, Fun events like Capture the Flag, Machine Learning, and the sport of Competitive Programming.
