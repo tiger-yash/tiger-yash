@@ -3,9 +3,9 @@
 
 
 <br>
-I am a Full Stack Web Developer whose passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
+I am a Software Engineer building production AI systems at scale. I design and ship backend services across Python, TypeScript, and React — including LLM-based evaluation pipelines, signal scoring frameworks, configurable workflow engines, and real-time data orchestration across Snowflake, Kafka, and PostgreSQL. Day-to-day work spans API design, database optimization, S3/IAM security hardening, OIDC-based access control, and building reliable distributed services under high throughput.
 
-I am currently enrolled in Computer Science and Engineering Programmer at the Indian Institute of Technology ( BHU ). I explore all fields of Computer Science, be it Web Development, Fun events like Capture the Flag, Machine Learning, and the sport of Competitive Programming.
+B.Tech in Computer Science from IIT (BHU). Deep experience with REST API architecture, query performance tuning, background job pipelines, and shipping production systems at startup pace.
 <br><br>
 <img alt="GIF" src="https://user-images.githubusercontent.com/74406801/133872281-a8ba6466-280a-44e4-87ef-61cf42009d50.gif" width="450" height="280" />
 
